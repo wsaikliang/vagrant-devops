@@ -6,7 +6,6 @@ apt-get -y install software-properties-common
 apt-add-repository -y ppa:ansible/ansible
 apt-get update
 apt-get -y install ansible
-
  
 # http://docs.ansible.com/ansible/latest/intro_installation.html#latest-releases-via-apt-ubuntu
 # $ sudo apt-get update
